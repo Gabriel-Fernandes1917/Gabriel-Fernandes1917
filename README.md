@@ -4,7 +4,7 @@
 🌱 I’m currently learning React with TypeScript.
  
  <div>
-  <a href="https://github.com/Gabriel-Fernandes1917">
+  <!--<a href="https://github.com/Gabriel-Fernandes1917">-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Fernandes1917&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Fernandes1917&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -19,5 +19,5 @@
   </div>
  
  <div>
-  <p>For know more about me acess my Linkedin clicking on the icon. <br/> <a href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> </p>
+  <p>For know more about me access my Linkedin clicking on the icon. <br/> <a href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> </p>
  </div>
