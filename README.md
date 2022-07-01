@@ -19,5 +19,5 @@
   </div>
  
  <div>
-  <p>For know more about me acess my Linkedin clicking on the icon <a href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/"> <img height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>. </p>
+  <p>For know more about me acess my Linkedin clicking on the icon <a href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>. </p>
  </div>
