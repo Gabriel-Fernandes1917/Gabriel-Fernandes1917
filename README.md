@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
   </a>
   <a href = "https://repositorio-react.vercel.app/">
-  <img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/>
+  <img src="https://img.icons8.com/dusk/48/000000/internet--v1.png"/>
   </a>
   </div>
   
