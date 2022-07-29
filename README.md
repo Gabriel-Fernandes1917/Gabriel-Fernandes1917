@@ -20,9 +20,14 @@
  
  <div>
   </br> </br>
-  <p>For know more about me access my Linkedin and my Web Site clicking on the icon. <br/> <a href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/">     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+  <p>For know more about me access my Linkedin and my Web Site clicking on the icon. </p> <br/> 
+  <div style="display: inline_block">
+  <a style="margin-left: 12px" href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/">     
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
+  </a>
   <a href = "https://repositorio-react.vercel.app/">
   <img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/>
   </a>
-  </p>
+  </div>
+  
  </div>
