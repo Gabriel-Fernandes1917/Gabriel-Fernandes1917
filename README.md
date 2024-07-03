@@ -1,7 +1,7 @@
 ## Hello! I am Gabriel
 
 🔭 I’m currently working on SEFA.
-🌱 I’m currently learning React with TypeScript.
+🌱 I’m currently learning Python and PowerShell.
  
  <div>
   <a href="https://github.com/Gabriel-Fernandes1917">
@@ -11,11 +11,9 @@
 </div>
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000">
   </div>
  
  <div>
@@ -24,9 +22,6 @@
   <div style="display: inline_block">
   <a style="margin-left: 12px" href ="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes/">     
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
-  </a>
-  <a href = "https://repositorio-react.vercel.app/">
-  <img src="https://img.icons8.com/dusk/48/000000/internet--v1.png"/>
   </a>
   </div>
   
