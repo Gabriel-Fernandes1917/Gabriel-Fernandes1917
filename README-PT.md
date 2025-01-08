@@ -57,12 +57,6 @@ Acesse minhas redes para mais informações sobre minha formação, carreira e p
   </a>
 </div>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000">
-  </div>
-
 ---
 
 #### Fontes utilizadas neste README
