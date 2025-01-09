@@ -1,12 +1,15 @@
 # Gabriel Fernandes
 
-🎓 **Analista de Dados | Desenvolvedor Python | Automação de sistemas**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span>🎓 <strong>Analista de Dados | Desenvolvedor Python | Automação de sistemas</strong></span>
+</div>
+  <div style="text-align: right">
+    Change language:  
+    <a href="https://github.com/Gabriel-Fernandes1917">
+        English
+    </a>
+</div>
 
----
-
-## Language
-Do you speak English? Click on the flag below to access our version in this language
-- [![Ingles](./assets/imagens/estados-unidos.png)](https://github.com/Gabriel-Fernandes1917)
 ---
 
 ## 👋 Sobre Mim
