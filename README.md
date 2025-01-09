@@ -45,12 +45,12 @@ system development, in addition to knowledge of Windows Server and Linux.
 Check out my networks for more information about my background, career and projects.
 
 <ul style="list-style-type:none;">
-  <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes">
+  <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes" target="_blank">
     <li style="list-style-type:none;">
       <img src="./assets/imagens/linkedin.png" alt="linkedin">
     </li>
   </a>
-  <a href="https://gabrielfernandes.vercel.app/">
+  <a href="https://gabrielfernandes.vercel.app/" target="_blank">
     <li style="list-style-type:none;">
       <img src="./assets/imagens/site.png" alt="Site">
     </li>
@@ -62,7 +62,7 @@ Check out my networks for more information about my background, career and proje
 ## My Stats
 
 <div>
-  <a href="https://github.com/Gabriel-Fernandes1917">
+  <a href="https://github.com/Gabriel-Fernandes1917" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Fernandes1917&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Fernandes1917&layout=compact&langs_count=7&theme=dark"/>
   </a>
