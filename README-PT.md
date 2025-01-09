@@ -4,6 +4,11 @@
 
 ---
 
+## Language
+Do you speak English? Click on the flag below to access our version in this language
+- [![Ingles](./assets/imagens/estados-unidos.png)](https://github.com/Gabriel-Fernandes1917)
+---
+
 ## 👋 Sobre Mim
 Olá! Eu sou o Gabriel Fernandes, um profissional de TI com uma paixão por dados, desenvolvimento e automação de sistemas. Possuo experiência em tratativas de incidentes de serviços,
 automação e otimização de tarefas, desenvolvimento de sistemas, além de conhecimentos em servidores Windows Server e Linux. 
@@ -45,16 +50,16 @@ automação e otimização de tarefas, desenvolvimento de sistemas, além de con
 Acesse minhas redes para mais informações sobre minha formação, carreira e projetos realizados.
 
 <ul style="list-style-type:none;">
-  <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes">
-    <li style="list-style-type:none;">
+  <li style="list-style-type:none;">
+    <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes" target="_blank">
       <img src="./assets/imagens/linkedin.png" alt="linkedin">
-    </li>
-  </a>
-  <a href="https://gabrielfernandes.vercel.app/">
-    <li style="list-style-type:none;">
+    </a>
+  </li>
+  <li style="list-style-type:none;">
+    <a href="https://gabrielfernandes.vercel.app/" target="_blank">
       <img src="./assets/imagens/site.png" alt="Site">
-    </li>
-  </a>
+    </a>
+  </li>
 </ul>
 
 ---
@@ -62,7 +67,7 @@ Acesse minhas redes para mais informações sobre minha formação, carreira e p
 ## Minhas estatísticas
 
 <div>
-  <a href="https://github.com/Gabriel-Fernandes1917">
+  <a href="https://github.com/Gabriel-Fernandes1917" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Fernandes1917&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Fernandes1917&layout=compact&langs_count=7&theme=dark"/>
   </a>
