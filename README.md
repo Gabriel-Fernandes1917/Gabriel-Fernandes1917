@@ -45,16 +45,16 @@ system development, in addition to knowledge of Windows Server and Linux.
 Check out my networks for more information about my background, career and projects.
 
 <ul style="list-style-type:none;">
-  <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes" target="_blank">
-    <li style="list-style-type:none;">
+  <li style="list-style-type:none;">
+    <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes" target="_blank">
       <img src="./assets/imagens/linkedin.png" alt="linkedin">
-    </li>
-  </a>
-  <a href="https://gabrielfernandes.vercel.app/" target="_blank">
-    <li style="list-style-type:none;">
+    </a>
+  </li>
+  <li style="list-style-type:none;">
+    <a href="https://gabrielfernandes.vercel.app/" target="_blank">
       <img src="./assets/imagens/site.png" alt="Site">
-    </li>
-  </a>
+    </a>
+  </li>
 </ul>
 
 ---
