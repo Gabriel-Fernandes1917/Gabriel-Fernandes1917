@@ -43,8 +43,19 @@ automação e otimização de tarefas, desenvolvimento de sistemas, além de con
 
 ## 🌐 Conecte-se Comigo
 Acesse minhas redes para mais informações sobre minha formação, carreira e projetos realizados.
-[![LinkedIn](./assets/imagens/linkedin.png)](https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes)
-[![Portfolio](./assets/imagens/site.png)](https://gabrielfernandes.vercel.app/)
+
+<ul style="list-style-type:none;">
+  <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes">
+    <li>
+      <img src="./assets/imagens/linkedin.png" alt="linkedin">
+    </li>
+  </a>
+  <a href="https://gabrielfernandes.vercel.app/">
+    <li>
+      <img src="./assets/imagens/site.png" alt="Site">
+    </li>
+  </a>
+</ul>
 
 ---
 
