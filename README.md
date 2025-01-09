@@ -4,6 +4,12 @@
 
 ---
 
+## Idioma
+Você fala em português ? Clique na bandeira abaixo e acesse nossa versão no idioma
+- [![Português](./assets/imagens/brasil.png)](https://github.com/Gabriel-Fernandes1917/Gabriel-Fernandes1917/blob/main/README-PT.md)
+
+---
+
 ## 👋 About Me
 Hello! My name is Gabriel Fernandes, an IT professional with a passion for data, programming, and systems automation. I have experience in handling service incidents, automation and task optimization,
 system development, in addition to knowledge of Windows Server and Linux.
@@ -74,3 +80,5 @@ Check out my networks for more information about my background, career and proje
 I inform you that all icons used in this README were taken from the Flaticon website from the following authors:
 - [Rianjulislam](https://www.flaticon.com/br/icones-gratis/linkedin)
 - [Hilmy Abiyyu A](https://www.flaticon.com/br/icones-gratis/seo-e-web)
+- [Freepik](https://www.flaticon.com/br/icones-gratis/brasil)
+- [Freepik](https://www.flaticon.com/br/icones-gratis/estados-unidos)

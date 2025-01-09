@@ -4,6 +4,11 @@
 
 ---
 
+## Language
+Do you speak English? Click on the flag below to access our version in this language
+- [![Ingles](./assets/imagens/estados-unidos.png)](https://github.com/Gabriel-Fernandes1917)
+---
+
 ## 👋 Sobre Mim
 Olá! Eu sou o Gabriel Fernandes, um profissional de TI com uma paixão por dados, desenvolvimento e automação de sistemas. Possuo experiência em tratativas de incidentes de serviços,
 automação e otimização de tarefas, desenvolvimento de sistemas, além de conhecimentos em servidores Windows Server e Linux. 
