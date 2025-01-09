@@ -1,12 +1,14 @@
 # Gabriel Fernandes
 
-🎓 **Data Analyst | Python Developer | Systems Automation**
-
----
-
-## Idioma
-Você fala português ? Clique na bandeira abaixo e acesse nossa versão no idioma
-- [![Português](./assets/imagens/brasil.png)](https://github.com/Gabriel-Fernandes1917/Gabriel-Fernandes1917/blob/main/README-PT.md)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span>🎓 <strong>Data Analyst | Python Developer | Systems Automation</strong></span>
+  <div>
+    Alterar idioma do site:  
+    <a href="https://github.com/Gabriel-Fernandes1917/Gabriel-Fernandes1917/blob/main/README-PT.md">
+    <img href="./assets/imagens/brasil.png" alt="Português">
+    </a>
+  </div>
+</div>
 
 ---
 
