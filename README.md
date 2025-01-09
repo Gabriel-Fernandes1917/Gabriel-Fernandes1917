@@ -5,7 +5,7 @@
 ---
 
 ## Idioma
-Você fala em português ? Clique na bandeira abaixo e acesse nossa versão no idioma
+Você fala português ? Clique na bandeira abaixo e acesse nossa versão no idioma
 - [![Português](./assets/imagens/brasil.png)](https://github.com/Gabriel-Fernandes1917/Gabriel-Fernandes1917/blob/main/README-PT.md)
 
 ---
