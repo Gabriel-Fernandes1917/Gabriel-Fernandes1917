@@ -46,12 +46,12 @@ Acesse minhas redes para mais informações sobre minha formação, carreira e p
 
 <ul style="list-style-type:none;">
   <a href="https://www.linkedin.com/in/gabriel-guilherme-santos-fernandes">
-    <li>
+    <li style="list-style-type:none;">
       <img src="./assets/imagens/linkedin.png" alt="linkedin">
     </li>
   </a>
   <a href="https://gabrielfernandes.vercel.app/">
-    <li>
+    <li style="list-style-type:none;">
       <img src="./assets/imagens/site.png" alt="Site">
     </li>
   </a>
