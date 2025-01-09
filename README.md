@@ -59,7 +59,7 @@ Check out my networks for more information about my background, career and proje
 
 ---
 
-## Minhas estatísticas
+## My Stats
 
 <div>
   <a href="https://github.com/Gabriel-Fernandes1917">
@@ -70,7 +70,7 @@ Check out my networks for more information about my background, career and proje
 
 ---
 
-#### Fontes utilizadas neste README
+#### Source used in this README
 I inform you that all icons used in this README were taken from the Flaticon website from the following authors:
 - [Rianjulislam](https://www.flaticon.com/br/icones-gratis/linkedin)
 - [Hilmy Abiyyu A](https://www.flaticon.com/br/icones-gratis/seo-e-web)
