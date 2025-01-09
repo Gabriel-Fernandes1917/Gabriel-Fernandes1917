@@ -2,12 +2,12 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <span>🎓 <strong>Data Analyst | Python Developer | Systems Automation</strong></span>
-  <div>
-    Alterar idioma do site:  
+</div>
+  <div style="text-align: right">
+    Alterar idioma:  
     <a href="https://github.com/Gabriel-Fernandes1917/Gabriel-Fernandes1917/blob/main/README-PT.md">
-    <img href="./assets/imagens/brasil.png" alt="Português">
+        Português
     </a>
-  </div>
 </div>
 
 ---
